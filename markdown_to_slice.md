@@ -49,7 +49,7 @@
         - add externel markdown
     - add google analysis id to index.html
         - new google analysis id
-        - add js code before </body> of html page
+        - add js code before `</body>` of html page
 - reveal 使用过程
     - copy template
     - update `<title>马年上半年我去过哪些地方</title>`
