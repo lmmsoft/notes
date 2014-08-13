@@ -22,8 +22,6 @@
     - 支持代码高亮
     - 支持github page
 
-
-
 ## swipe
 - [官网www.swipe.to](https://www.swipe.to/)
 - 这其实是个在线制作/演示幻灯片的网站，提交markdown格式文档并转换成在线的幻灯网页其实是它的副产品
@@ -43,9 +41,8 @@
 - md书写用，直接commit到github
     - 换行使用***和****
 - 演示用，准备写个在线小程序转换格式
-- reveal
-    - 
-    - 使用换行符(而不是---或者;;;等)切换幻灯片，保护原生md文件格式 <section data-markdown="example.md" data-separator="^\n\n\n" data-vertical="^\n\n"></section>
+- reveal    - 
+    - 使用换行符(而不是---或者;;;等)切换幻灯片，保护原生md文件格式 `<section data-markdown="example.md" data-separator="^\n\n\n" data-vertical="^\n\n"></section>`
 - reveal 初始化过程
     - download newest reveal.js from [https://github.com/hakimel/reveal.js/releases](https://github.com/hakimel/reveal.js/releases) 
     - edit template
@@ -53,3 +50,7 @@
     - add google analysis id to index.html
         - new google analysis id
         - add js code before </body> of html page
+- reveal 使用过程
+    - copy template
+    - update `<title>马年上半年我去过哪些地方</title>`
+    - add md file and update the file name in `<section data-markdown="example.md" data-separator="^\n\n\n" data-vertical="^\n\n"></section>`
