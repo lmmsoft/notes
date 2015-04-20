@@ -115,7 +115,7 @@
 
 - 万松亭，好多写生中的同学
 
-![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/20.jpg?imageView2/2/w/600)
+![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/37.jpg?imageView2/2/w/600)
 
 
 - 画里的郊外风景
@@ -153,7 +153,7 @@
 ![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/34.jpg?imageView2/2/w/600)
 
 
-- 万松桥记刻于桥头，大意是旧桥被大水冲毁，叶氏弟兄出资修之，民风纯朴，村民多义，姚鼐对此善举非常感动，欣然提笔，为桥作记~
+- 姚鼐的《万松桥记》刻于桥头，大意是旧桥被大水冲毁，叶氏弟兄出资修之，民风纯朴，村民多义，姚鼐对此善举非常感动，欣然提笔，为桥作记~
 
 ![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/25.jpg?imageView2/2/w/600)
 
@@ -187,6 +187,7 @@
 
 ![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/30.jpg?imageView2/2/w/600)
 
+
 - 晚上游玩了黄山市老街，11：11分上火车回宁（站票27元）
 
 ![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/39.jpg?imageView2/2/w/600)
@@ -195,4 +196,5 @@
 - 六号7：30我到达南京西站（西站2012年已经拆啦，最后一班车我还去体验了一吧，写过游记
 
 ![](http://7xinjz.com1.z0.glb.clouddn.com/travel/091005nanping/40.jpg?imageView2/2/w/600)
+
 - 看到了晨曦下的阅江楼，又是一番风景（完）
